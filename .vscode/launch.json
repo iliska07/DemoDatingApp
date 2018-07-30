@@ -14,7 +14,7 @@
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
-            "program": "${workspaceRoot}/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.dll",
+            "program": "${workspaceRoot}/DatingApp.API/bin/BNB/Debug/netcoreapp2.1/DatingApp.API.dll",
             "args": [],
             "cwd": "${workspaceRoot}/",
             "stopAtEntry": false,
