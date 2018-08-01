@@ -20,7 +20,7 @@
             "stopAtEntry": false,
 			"requireExactSource": false,
             "launchBrowser": {
-                "enabled": true,
+                "enabled": false,
                 "args": "${auto-detect-url}",
                 "windows": {
                     "command": "cmd.exe",
