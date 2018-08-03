@@ -3,7 +3,7 @@ import { User } from '../../_models/user';
 import { UserService } from '../../_services/user.service';
 import { AlertifyService } from '../../_services/alertify.service';
 import { ActivatedRoute } from '@angular/router';
-import { NgxGalleryModule, NgxGalleryImage, NgxGalleryOptions, NgxGalleryAnimation } from '../../../../node_modules/ngx-gallery';
+import { NgxGalleryModule, NgxGalleryImage, NgxGalleryOptions, NgxGalleryAnimation } from 'ngx-gallery';
 
 @Component({
   selector: 'app-member-detail',
