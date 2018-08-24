@@ -86,6 +86,12 @@
               "request": "launch",
               "url": "http://localhost:4200",
               "webRoot": "${workspaceRoot}/wwwroot"
+          },
+          {
+              "name": ".NET Core Attach",
+              "type": "coreclr",
+              "request": "attach",
+              "processId": "${command:pickProcess}"
           }
     ]
 }
