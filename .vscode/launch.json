@@ -85,7 +85,7 @@
               "type": "chrome",
               "request": "launch",
               "url": "http://localhost:4200",
-              "webRoot": "${workspaceRoot}/wwwroot"
+              "webRoot": "${workspaceRoot}"
           },
           {
               "name": ".NET Core Attach",
